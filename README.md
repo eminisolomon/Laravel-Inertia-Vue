@@ -1,4 +1,4 @@
-## Laravel 10 + Inertia.js + Vue 3 -> single page application
+# Laravel 10 + Inertia.js + Vue 3 -> single page application
 
 <div style="display: flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" alt="Laravel Logo" style="width: 40px;">
@@ -18,7 +18,7 @@ The application is designed to provide a smooth and interactive user experience.
 To get started with the installation, follow these steps:
 
 1. Clone the repository
-``git clone https://github.com/perisicnikola37/laravel-inertia-vue-spa.git``
+``git clone https://github.com/eminisolomon/laravel-inertia-vue.git``
 
 2. Enter project directory
 ``cd laravel-inertia-vue-project``
@@ -59,6 +59,7 @@ This application includes the following features:
 - Font Awesome icons
 - Application analytics
 - User default profile avatar
+
 ## Contributing
 
 If you would like to contribute to this project, please follow these steps:
